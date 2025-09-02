@@ -7,3 +7,10 @@ I am learning how to use **Markdown** on GitHub.
 - Collaborate with others
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+```javascript
+var myVar = "Hello, world!";
+console.log(myVar);
+
+
+
